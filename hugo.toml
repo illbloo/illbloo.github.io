@@ -1,0 +1,6 @@
+baseURL = 'https://illbloo.github.io/'
+languageCode = 'en-us'
+title = "ram's site"
+author = 'ram'
+theme = 'hugo-bearblog'
+favicon = 'static/favicon.ico'
