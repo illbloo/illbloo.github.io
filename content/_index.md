@@ -6,4 +6,4 @@ draft = false
 
 hi i'm ram!
 
-there's not much to see here yet. maybe follow me on [Fediverse](152131832+illbloo@users.noreply.github.com)?
+there's not much to see here yet. maybe follow me on [Fediverse](https://wetdry.world/@ramburger)?
